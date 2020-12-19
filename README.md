@@ -10,16 +10,18 @@ Automatic self-diagnosis for your convenience.
 ex) 
 {
   "school": {
-    "region": "서울",    // Required
-    "level": "중학교",    // Required
-    "name": "어쩌다중",    // Required
-    "code": "B100000887" // Optional
+    "region": "서울",
+    "level": "중학교", 
+    "name": "어쩌다중",
+    "code": "B100000887"
   },
-  "studentName": "홍길동", // Required
-  "birthday": "050730", // Required
-  "password": "0730" // Required
+  "studentName": "홍길동",
+  "birthday": "050730",
+  "password": "0730"
 }
 
 ```
+
+Only `school.code` is optional.
 
 3. `yarn start` --> Automatic self-diagnosis is performed every day from the time you run!
