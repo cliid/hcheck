@@ -1,5 +1,5 @@
 # hcheck
-Automatic self-diagnosis script for your convenience.
+Automatic COVID19 health check script for your convenience.
 
 ## README
 [[English](./README.md)]
