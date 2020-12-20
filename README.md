@@ -1,6 +1,11 @@
 # hcheck
 Automatic self-diagnosis for your convenience.
 
+## README
+
+[[English](./README.md)]
+[[한국어](./README-ko.md)]
+
 ## How to run
 
 1. `yarn`
