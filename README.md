@@ -26,12 +26,12 @@ yarn
   "school": {
     "region": "서울",
     "level": "중학교",
-    "name": "테스트중",
-    "code": "A123456789"
+    "name": "어쩌다중",
+    "code": "B100000887"
   },
   "studentName": "홍길동",
-  "birthday": "050123",
-  "password": "1234"
+  "birthday": "050730",
+  "password": "0730"
 }
 ```
 | 항목 | 설명 | 타입 | 필수 입력 여부 |
