@@ -1,6 +1,10 @@
 # hcheck
 자동 자가진단 스크립트
 
+## README
+[[English](./README.md)]
+[[한국어](./README-ko.md)]
+
 ## 사용법
 ### 1. 이 저장소를 clone합니다.
 ```
